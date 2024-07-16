@@ -12,7 +12,7 @@ Generate secure and unique passwords effortlessly with this lightweight JavaScri
 
 Live Demo:
 
-
+https://mannath-password-generator.netlify.app/
 
 ![alt text](images/demo.png)   
 
